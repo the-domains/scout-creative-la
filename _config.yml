@@ -6,9 +6,13 @@ color:
   saturation: 0.17202360229566693
   rhythmicContrast: 0.6059142865706235
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#595241'
+    - '#B8AE9C'
+    - '#FFFFFF'
+    - '#ACCFCC'
+    - '#8A0917'
 name: Scout Creative LA
+navigation:
+  - name: Website
+    url: 'http://www.scoutcreativela.com/'
+    type: external
